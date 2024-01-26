@@ -1,0 +1,56 @@
+.56.58.0/23        # Serverion BV, Netherlands
+5.161.0.0/16        # Hetzner Online GmbH, Germany
+23.183.80.0/22      # FranTech Solutions
+34.204.167.206      # Amazon AWS Single Host
+37.19.206.0/24      # DataCamp
+37.19.207.0/24      # DataCamp
+45.55.0.0/16        # DigitalOcean
+45.61.128.0/18      # Frantech Solutions
+45.88.148.0/22      # Moshonkin Ilia Sergeevich, Russia
+45.144.112.0/23     # Clouvider Limited, NY
+64.225.0.0/17       # DigitalOcean
+66.176.0.0/15       # Comcast Cable Communications
+71.224.0.0/12       # Comcast Cable Communications
+73.0.0.0/8          # Comcast Cable Communications
+83.147.52.0/22      # Clouvider Limited 
+104.131.0.0-104.131.103.208 # DigitalOcean
+# 104.131.103.209 is beaufortcc.edu 
+104.131.103.210-104.131.255.255 # DigitalOcean
+104.156.155.0/24    # Academy of Internet Research Limited Liability Company
+104.194.128.0/19    # FranTech Solutions
+104.244.72.0/21     # FranTech Solutions
+104.248.0.0/16      # DigitalOcean
+107.151.128.0/18    # Zenlayer Inc
+107.170.0.0/16      # DigitalOcean
+107.189.0.0/19      # FranTech Solutions
+134.122.30.157      # DigitalOcean
+137.184.0.0/16      # DigitalOcean
+138.68.0.0/16       # DigitalOcean
+143.198.0.0/16      # DigitalOcean
+144.172.64.0/18     # FranTech Solutions
+146.190.0.0/16      # DigitalOcean
+159.203.0.0/16      # DigitalOcean
+159.223.0.0/16      # DigitalOcean
+162.120.68.0/22     # Clouvider Limited, UK
+162.243.0.0/16      # DigitalOcean
+162.244.92.0/22     # FranTech Solutions
+165.227.0.0/16      # DigitalOcean
+162.245.0.0/21      # FranTech Solutions
+167.88.160.0/20     # FranTech Solutions
+167.99.0.0/16       # DigitalOcean
+172.86.64.0/18      # FranTech Solutions
+172.104.0.0/15      # Linode / Akamai Technologies, Inc.
+173.245.86.16/29    # EGIHosting
+192.241.128.0/17    # DigitalOcean
+194.33.44.0/22      # Clouvider Limited, UK
+198.251.80.0/20     # FranTech Solutions
+198.98.48.0/20      # FranTech Solutions
+198.199.0.0/16      # Orange County - Social Services Agency, CA, US
+199.19.224.0/22     # FranTech Solutions
+199.195.248.0/21    # FranTech Solutions
+205.185.112.0/20    # FranTech Solutions
+207.244.224.0/19    # Contabo Inc.
+208.100.0.0/18      # Steadfast
+209.141.32.0/19     # FranTech Solutions
+104.192.0.0/22      # DataWagon LLC
+
