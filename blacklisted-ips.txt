@@ -33,6 +33,7 @@
 146.190.0.0/16      # DigitalOcean
 159.203.0.0/16      # DigitalOcean
 159.223.0.0/16      # DigitalOcean
+161.35.0.0/16       # DigitalOcean
 162.120.68.0/22     # Clouvider Limited, UK
 162.243.0.0/16      # DigitalOcean
 162.244.92.0/22     # FranTech Solutions
