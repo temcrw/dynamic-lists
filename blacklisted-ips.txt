@@ -26,6 +26,7 @@
 107.189.0.0/19      # FranTech Solutions
 134.122.30.157      # DigitalOcean
 137.184.0.0/16      # DigitalOcean
+138.197.0.0/16      # DigitalOcean
 138.68.0.0/16       # DigitalOcean
 142.93.0.0/16       # DigitalOcean
 143.198.0.0/16      # DigitalOcean
