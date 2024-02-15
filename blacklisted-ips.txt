@@ -1,4 +1,4 @@
-.56.58.0/23        # Serverion BV, Netherlands
+2.56.58.0/23        # Serverion BV, Netherlands
 5.161.0.0/16        # Hetzner Online GmbH, Germany
 23.183.80.0/22      # FranTech Solutions
 34.204.167.206      # Amazon AWS Single Host
