@@ -26,6 +26,7 @@
 107.151.128.0/18    # Zenlayer Inc
 107.170.0.0/16      # DigitalOcean
 107.189.0.0/19      # FranTech Solutions
+118.69.0.0/16       # Unknown Assignee Veitnam
 134.122.30.157      # DigitalOcean
 137.184.0.0/16      # DigitalOcean
 138.197.0.0/16      # DigitalOcean
@@ -34,6 +35,7 @@
 143.198.0.0/16      # DigitalOcean
 144.172.64.0/18     # FranTech Solutions
 146.190.0.0/16      # DigitalOcean
+155.133.5.0/24      # Packethub S.A.
 159.203.0.0/16      # DigitalOcean
 159.223.0.0/16      # DigitalOcean
 161.35.0.0/16       # DigitalOcean
