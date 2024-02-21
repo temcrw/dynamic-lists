@@ -14,7 +14,8 @@
 68.170.160.0/20     # Bel Air Internet, LLC
 71.224.0.0/12       # Comcast Cable Communications
 73.0.0.0/8          # Comcast Cable Communications
-83.147.52.0/22      # Clouvider Limited 
+83.147.52.0/22      # Clouvider Limited
+98.192.0.0/10       # Comcast Cable Communications 
 104.131.0.0-104.131.103.208 # DigitalOcean
 # 104.131.103.209 is beaufortcc.edu 
 104.131.103.210-104.131.255.255 # DigitalOcean
