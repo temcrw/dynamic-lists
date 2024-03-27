@@ -10,6 +10,7 @@
 45.61.128.0/18      # Frantech Solutions
 45.88.148.0/22      # Moshonkin Ilia Sergeevich, Russia
 45.144.112.0/23     # Clouvider Limited, NY
+64.23.128.0/17      # DigitalOcean
 64.225.0.0/17       # DigitalOcean
 66.176.0.0/15       # Comcast Cable Communications
 66.240.192.0/18     # CariNet San Diego
