@@ -42,6 +42,7 @@
 146.190.0.0/16      # DigitalOcean
 146.235.192.0/18    # Oracle Corp. - Apache HTTP Server Path Transversal
 155.133.5.0/24      # Packethub S.A.
+157.245.0.0/16      # DigitalOcean
 159.65.0.0/16       # DigitalOcean
 159.203.0.0/16      # DigitalOcean
 159.223.0.0/16      # DigitalOcean
@@ -56,6 +57,7 @@
 172.86.64.0/18      # FranTech Solutions
 172.104.0.0/15      # Linode / Akamai Technologies, Inc.
 173.245.86.16/29    # EGIHosting
+173.255.192.0/18    # Linode
 181.214.93.0/24     # Unknown
 192.241.128.0/17    # DigitalOcean
 194.33.44.0/22      # Clouvider Limited, UK
