@@ -19,6 +19,7 @@
 71.224.0.0/12       # Comcast Cable Communications
 73.0.0.0/8          # Comcast Cable Communications
 83.147.52.0/22      # Clouvider Limited
+92.118.39.0/24      # PP Technology
 98.24.0.0/13        # Charter Communications
 98.192.0.0/10       # Comcast Cable Communications 
 103.237.54.0-103.237.55.255 # Wave Broadband
