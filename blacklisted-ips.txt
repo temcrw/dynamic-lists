@@ -44,6 +44,7 @@
 146.190.0.0/16      # DigitalOcean
 146.235.192.0/18    # Oracle Corp. - Apache HTTP Server Path Transversal
 155.133.5.0/24      # Packethub S.A.
+157.230.0.0/16      # DigitalOcean
 157.245.0.0/16      # DigitalOcean
 159.65.0.0/16       # DigitalOcean
 159.203.0.0/16      # DigitalOcean
