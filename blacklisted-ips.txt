@@ -70,6 +70,7 @@
 199.195.248.0/21    # FranTech Solutions
 205.185.112.0/20    # FranTech Solutions
 207.244.224.0/19    # Contabo Inc.
+207.246.64.0/18     # The Constant Company, LLC
 208.100.0.0/18      # Steadfast
 209.141.32.0/19     # FranTech Solutions
 104.192.0.0/22      # DataWagon LLC
