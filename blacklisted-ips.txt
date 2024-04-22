@@ -63,6 +63,7 @@
 173.245.86.16/29    # EGIHosting
 173.255.192.0/18    # Linode
 181.214.93.0/24     # Unknown
+185.216.70.0/24     # Silent Connection Ltd
 192.241.128.0/17    # DigitalOcean
 194.33.44.0/22      # Clouvider Limited, UK
 198.251.80.0/20     # FranTech Solutions
