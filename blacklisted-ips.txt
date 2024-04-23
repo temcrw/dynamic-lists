@@ -47,6 +47,7 @@
 155.133.5.0/24      # Packethub S.A.
 157.230.0.0/16      # DigitalOcean
 157.245.0.0/16      # DigitalOcean
+158.255.213.0/24    # EDIS Infrastructure in the USA
 159.65.0.0/16       # DigitalOcean
 159.203.0.0/16      # DigitalOcean
 159.223.0.0/16      # DigitalOcean
