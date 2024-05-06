@@ -11,15 +11,20 @@
 45.61.128.0/18      # Frantech Solutions
 45.88.148.0/22      # Moshonkin Ilia Sergeevich, Russia
 45.144.112.0/23     # Clouvider Limited, NY
+45.159.22.0/24      # Fine Group Servers
 64.23.128.0/17      # DigitalOcean
 64.225.0.0/17       # DigitalOcean
 66.176.0.0/15       # Comcast Cable Communications
 66.240.192.0/18     # CariNet San Diego
 67.217.228.0/24     # BL Networks
 68.170.160.0/20     # Bel Air Internet, LLC
+69.240.0.0/12       # Comcast
 71.224.0.0/12       # Comcast Cable Communications
 73.0.0.0/8          # Comcast Cable Communications
+76.16.0.0/12        # Comcast
 83.147.52.0/22      # Clouvider Limited
+88.218.47.0/24      # Fine Group Servers
+93.177.116.0 /23    # Fine Group Servers
 92.118.39.0/24      # PP Technology
 98.24.0.0/13        # Charter Communications
 98.192.0.0/10       # Comcast Cable Communications 
@@ -42,6 +47,7 @@
 142.93.0.0/16       # DigitalOcean
 143.198.0.0/16      # DigitalOcean
 144.172.64.0/18     # FranTech Solutions
+146.19.39.0/24      # Fine Group Servers
 146.190.0.0/16      # DigitalOcean
 146.235.192.0/18    # Oracle Corp. - Apache HTTP Server Path Transversal
 155.133.5.0/24      # Packethub S.A.
@@ -64,8 +70,10 @@
 173.245.86.16/29    # EGIHosting
 173.255.192.0/18    # Linode
 181.214.93.0/24     # Unknown
+185.212.115.0/24    # Fine Group Servers       
 185.216.70.0/24     # Silent Connection Ltd
 192.241.128.0/17    # DigitalOcean
+193.163.92.0/24     # Fine Group Server
 194.33.44.0/22      # Clouvider Limited, UK
 198.251.80.0/20     # FranTech Solutions
 198.98.48.0/20      # FranTech Solutions
@@ -77,5 +85,6 @@
 207.246.64.0/18     # The Constant Company, LLC
 208.100.0.0/18      # Steadfast
 209.141.32.0/19     # FranTech Solutions
+212.18.127.0/24     # Fine Group Servers
 104.192.0.0/22      # DataWagon LLC
 
