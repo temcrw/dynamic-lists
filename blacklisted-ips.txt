@@ -12,6 +12,7 @@
 45.88.148.0/22      # Moshonkin Ilia Sergeevich, Russia
 45.144.112.0/23     # Clouvider Limited, NY
 45.159.22.0/24      # Fine Group Servers
+62.204.49.0/24      # Fine Group Servers
 64.23.128.0/17      # DigitalOcean
 64.225.0.0/17       # DigitalOcean
 66.176.0.0/15       # Comcast Cable Communications
