@@ -1,7 +1,8 @@
 2.56.58.0/23        # Serverion BV, Netherlands
-#4.144.0.0/12        # Microsoft Hosting
+#4.144.0.0/12       # Microsoft Hosting
 5.161.0.0/16        # Hetzner Online GmbH, Germany
 23.183.80.0/22      # FranTech Solutions
+24.128.0.0/16       # Comcast
 34.204.167.206      # Amazon AWS Single Host
 37.19.206.0/24      # DataCamp
 37.19.207.0/24      # DataCamp
@@ -17,29 +18,38 @@
 64.225.0.0/17       # DigitalOcean
 66.176.0.0/15       # Comcast Cable Communications
 66.240.192.0/18     # CariNet San Diego
+67.160.0.0/11       # Comcast
 67.217.228.0/24     # BL Networks
+68.192.0.0/13       # Optimum
 68.170.160.0/20     # Bel Air Internet, LLC
 69.240.0.0/12       # Comcast
-71.224.0.0/12       # Comcast Cable Communications
+71.0.0.0/8          # Comcast Cable Communications
+72.192.0.0/11       # Cox Cable
 73.0.0.0/8          # Comcast Cable Communications
 76.16.0.0/12        # Comcast
+76.96.0.0/11        # Comcast 
+76.128.0.0/11       # Comcast
 83.147.52.0/22      # Clouvider Limited
 88.218.47.0/24      # Fine Group Servers
 93.177.116.0 /23    # Fine Group Servers
 92.118.39.0/24      # PP Technology
+96.224.0.0/11       # Verizon
+97.80.0.0/12        # Charter
 98.24.0.0/13        # Charter Communications
 98.192.0.0/10       # Comcast Cable Communications 
-103.237.54.0-103.237.55.255 # Wave Broadband
-104.131.0.0-104.131.103.208 # DigitalOcean
-# 104.131.103.209 is beaufortcc.edu 
-104.131.103.210-104.131.255.255 # DigitalOcean
+103.237.54.0-103.237.55.255          # Wave Broadband
+104.131.0.0-104.131.103.208          # DigitalOcean
+# 104.131.103.209                    # ALLOW beaufortcc.edu 
+104.131.103.210-104.131.255.255      # DigitalOcean
 104.156.155.0/24    # Academy of Internet Research Limited Liability Company
 104.194.128.0/19    # FranTech Solutions
+104.230.0.0/15      # Charter
 104.244.72.0/21     # FranTech Solutions
 104.248.0.0/16      # DigitalOcean
 107.151.128.0/18    # Zenlayer Inc
 107.170.0.0/16      # DigitalOcean
 107.189.0.0/19      # FranTech Solutions
+107.192.0.0/11      # AT&T
 118.69.0.0/16       # Unknown Assignee Veitnam
 134.122.30.157      # DigitalOcean
 137.184.0.0/16      # DigitalOcean
@@ -68,8 +78,10 @@
 167.99.0.0/16       # DigitalOcean
 172.86.64.0/18      # FranTech Solutions
 172.104.0.0/15      # Linode / Akamai Technologies, Inc.
+173.16.0.0/12       # Mediacom
 173.245.86.16/29    # EGIHosting
 173.255.192.0/18    # Linode
+174.160.0.0/11      # Comcast
 181.214.93.0/24     # Unknown
 185.212.115.0/24    # Fine Group Servers       
 185.216.70.0/24     # Silent Connection Ltd
