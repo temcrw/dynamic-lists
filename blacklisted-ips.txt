@@ -101,5 +101,6 @@
 208.100.0.0/18      # Steadfast
 209.141.32.0/19     # FranTech Solutions
 212.18.127.0/24     # Fine Group Servers
+216.131.64.0/18     # Strong Technology
 104.192.0.0/22      # DataWagon LLC
 
