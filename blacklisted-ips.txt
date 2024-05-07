@@ -13,6 +13,7 @@
 45.88.148.0/22      # Moshonkin Ilia Sergeevich, Russia
 45.144.112.0/23     # Clouvider Limited, NY
 45.159.22.0/24      # Fine Group Servers
+47.132.0.0/14       # Charter
 62.204.49.0/24      # Fine Group Servers
 64.23.128.0/17      # DigitalOcean
 64.225.0.0/17       # DigitalOcean
@@ -79,6 +80,7 @@
 172.86.64.0/18      # FranTech Solutions
 172.104.0.0/15      # Linode / Akamai Technologies, Inc.
 173.16.0.0/12       # Mediacom
+173.64.0.0/12       # Verizon
 173.245.86.16/29    # EGIHosting
 173.255.192.0/18    # Linode
 174.160.0.0/11      # Comcast
