@@ -32,6 +32,7 @@
 68.170.160.0/20				# Bel Air Internet, LLC
 69.112.0.0/12				# Altice USA
 69.240.0.0/12				# Comcast
+70.160.0.0/11				# Cox Communications
 71.0.0.0/8				# Comcast Cable Communications
 72.192.0.0/11				# Cox Cable
 73.0.0.0/8				# Comcast Cable Communications
