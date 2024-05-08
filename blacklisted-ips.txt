@@ -1,106 +1,118 @@
-2.56.58.0/23        # Serverion BV, Netherlands
-#4.144.0.0/12       # Microsoft Hosting
-5.161.0.0/16        # Hetzner Online GmbH, Germany
-23.183.80.0/22      # FranTech Solutions
-24.128.0.0/16       # Comcast
-34.204.167.206      # Amazon AWS Single Host
-37.19.206.0/24      # DataCamp
-37.19.207.0/24      # DataCamp
-38.0.0.0/8          # Cogent Communications
-45.13.226.0/24      # Anders & Thesing GbR
-45.55.0.0/16        # DigitalOcean
-45.61.128.0/18      # Frantech Solutions
-45.88.148.0/22      # Moshonkin Ilia Sergeevich, Russia
-45.144.112.0/23     # Clouvider Limited, NY
-45.159.22.0/24      # Fine Group Servers
-47.132.0.0/14       # Charter
-62.204.49.0/24      # Fine Group Servers
-64.23.128.0/17      # DigitalOcean
-64.225.0.0/17       # DigitalOcean
-66.176.0.0/15       # Comcast Cable Communications
-66.240.192.0/18     # CariNet San Diego
-67.160.0.0/11       # Comcast
-67.217.228.0/24     # BL Networks
-68.192.0.0/13       # Optimum
-68.170.160.0/20     # Bel Air Internet, LLC
-69.240.0.0/12       # Comcast
-71.0.0.0/8          # Comcast Cable Communications
-72.192.0.0/11       # Cox Cable
-73.0.0.0/8          # Comcast Cable Communications
-76.16.0.0/12        # Comcast
-76.96.0.0/11        # Comcast 
-76.128.0.0/11       # Comcast
-83.147.52.0/22      # Clouvider Limited
-88.218.47.0/24      # Fine Group Servers
-93.177.116.0 /23    # Fine Group Servers
-92.118.39.0/24      # PP Technology
-96.224.0.0/11       # Verizon
-97.80.0.0/12        # Charter
-98.24.0.0/13        # Charter Communications
-98.192.0.0/10       # Comcast Cable Communications 
-103.237.54.0-103.237.55.255          # Wave Broadband
-104.131.0.0-104.131.103.208          # DigitalOcean
-# 104.131.103.209                    # ALLOW beaufortcc.edu 
-104.131.103.210-104.131.255.255      # DigitalOcean
-104.156.155.0/24    # Academy of Internet Research Limited Liability Company
-104.194.128.0/19    # FranTech Solutions
-104.230.0.0/15      # Charter
-104.244.72.0/21     # FranTech Solutions
-104.248.0.0/16      # DigitalOcean
-107.151.128.0/18    # Zenlayer Inc
-107.170.0.0/16      # DigitalOcean
-107.189.0.0/19      # FranTech Solutions
-107.192.0.0/11      # AT&T
-118.69.0.0/16       # Unknown Assignee Veitnam
-134.122.30.157      # DigitalOcean
-137.184.0.0/16      # DigitalOcean
-138.197.0.0/16      # DigitalOcean
-138.68.0.0/16       # DigitalOcean
-142.93.0.0/16       # DigitalOcean
-143.198.0.0/16      # DigitalOcean
-144.172.64.0/18     # FranTech Solutions
-146.19.39.0/24      # Fine Group Servers
-146.190.0.0/16      # DigitalOcean
-146.235.192.0/18    # Oracle Corp. - Apache HTTP Server Path Transversal
-155.133.5.0/24      # Packethub S.A.
-157.230.0.0/16      # DigitalOcean
-157.245.0.0/16      # DigitalOcean
-158.255.213.0/24    # EDIS Infrastructure in the USA
-159.65.0.0/16       # DigitalOcean
-159.203.0.0/16      # DigitalOcean
-159.223.0.0/16      # DigitalOcean
-161.35.0.0/16       # DigitalOcean
-162.120.68.0/22     # Clouvider Limited, UK
-162.243.0.0/16      # DigitalOcean
-162.244.92.0/22     # FranTech Solutions
-165.227.0.0/16      # DigitalOcean
-162.245.0.0/21      # FranTech Solutions
-167.88.160.0/20     # FranTech Solutions
-167.99.0.0/16       # DigitalOcean
-172.86.64.0/18      # FranTech Solutions
-172.104.0.0/15      # Linode / Akamai Technologies, Inc.
-173.16.0.0/12       # Mediacom
-173.64.0.0/12       # Verizon
-173.245.86.16/29    # EGIHosting
-173.255.192.0/18    # Linode
-174.160.0.0/11      # Comcast
-181.214.93.0/24     # Unknown
-185.212.115.0/24    # Fine Group Servers       
-185.216.70.0/24     # Silent Connection Ltd
-192.241.128.0/17    # DigitalOcean
-193.163.92.0/24     # Fine Group Server
-194.33.44.0/22      # Clouvider Limited, UK
-198.251.80.0/20     # FranTech Solutions
-198.98.48.0/20      # FranTech Solutions
-198.199.0.0/16      # Orange County - Social Services Agency, CA, US
-199.19.224.0/22     # FranTech Solutions
-199.195.248.0/21    # FranTech Solutions
-205.185.112.0/20    # FranTech Solutions
-207.244.224.0/19    # Contabo Inc.
-207.246.64.0/18     # The Constant Company, LLC
-208.100.0.0/18      # Steadfast
-209.141.32.0/19     # FranTech Solutions
-212.18.127.0/24     # Fine Group Servers
-216.131.64.0/18     # Strong Technology
-104.192.0.0/22      # DataWagon LLC
-
+2.56.58.0/23				# Serverion BV, Netherlands
+#4.144.0.0/12				# Microsoft Hosting
+5.161.0.0/16				# Hetzner Online GmbH, Germany
+23.183.80.0/22				# FranTech Solutions
+24.128.0.0/16				# Comcast
+34.204.167.206				# Amazon AWS Single Host
+35.129.0.0/16				# Charter Communications
+35.130.0.0/15				# Charter Communications
+35.132.0.0/14				# Charter Communications
+35.136.0.0/13				# Charter Communications
+35.144.0.0/13				# Charter Communications
+37.19.206.0/24				# DataCamp
+37.19.207.0/24				# DataCamp
+38.0.0.0/8				# Cogent Communications
+45.13.226.0/24				# Anders & Thesing GbR
+45.55.0.0/16				# DigitalOcean
+45.61.128.0/18				# Frantech Solutions
+45.88.148.0/22				# Moshonkin Ilia Sergeevich, Russia
+45.144.112.0/23				# Clouvider Limited, NY
+45.159.22.0/24				# Fine Group Servers
+47.132.0.0/14				# Charter
+62.204.49.0/24				# Fine Group Servers
+64.23.128.0/17				# DigitalOcean
+64.225.0.0/17				# DigitalOcean
+66.176.0.0/15				# Comcast Cable Communications
+66.240.192.0/18				# CariNet San Diego
+67.160.0.0/11				# Comcast
+67.217.228.0/24				# BL Networks
+68.0.0.0/12				# Cox Communications
+68.32.0.0/11				# Comcast
+68.192.0.0/13				# Optimum
+68.170.160.0/20				# Bel Air Internet, LLC
+69.112.0.0/12				# Altice USA
+69.240.0.0/12				# Comcast
+71.0.0.0/8				# Comcast Cable Communications
+72.192.0.0/11				# Cox Cable
+73.0.0.0/8				# Comcast Cable Communications
+74.128.0.0/12				# Charter Communications
+76.16.0.0/12				# Comcast
+76.96.0.0/11				# Comcast 
+76.128.0.0/11				# Comcast
+83.147.52.0/22				# Clouvider Limited
+88.218.47.0/24				# Fine Group Servers
+93.177.116.0 /23			# Fine Group Servers
+92.118.39.0/24				# PP Technology
+96.224.0.0/11				# Verizon
+97.80.0.0/12				# Charter
+98.24.0.0/13				# Charter Communications
+98.192.0.0/10				# Comcast Cable Communications 
+103.237.54.0/23				# Wave Broadband
+104.48.0.0/12				# AT&T
+104.131.0.0-104.131.103.208		# DigitalOcean
+# 104.131.103.209			# ALLOW beaufortcc.edu 
+104.131.103.210-104.131.255.255		# DigitalOcean
+104.156.155.0/24			# Academy of Internet Research Limited Liability Company
+104.192.0.0/22				# DataWagon LLC
+104.194.128.0/19			# FranTech Solutions
+104.230.0.0/15				# Charter
+104.244.72.0/21				# FranTech Solutions
+104.248.0.0/16				# DigitalOcean
+107.151.128.0/18			# Zenlayer Inc
+107.170.0.0/16				# DigitalOcean
+107.189.0.0/19				# FranTech Solutions
+107.192.0.0/11				# AT&T
+118.69.0.0/16				# Unknown Assignee Veitnam
+134.122.30.157				# DigitalOcean
+137.184.0.0/16				# DigitalOcean
+138.197.0.0/16				# DigitalOcean
+138.68.0.0/16				# DigitalOcean
+142.93.0.0/16				# DigitalOcean
+143.198.0.0/16				# DigitalOcean
+144.172.64.0/18				# FranTech Solutions
+146.19.39.0/24				# Fine Group Servers
+146.190.0.0/16				# DigitalOcean
+146.235.192.0/18			# Oracle Corp. - Apache HTTP Server Path Transversal
+155.133.5.0/24				# Packethub S.A.
+157.230.0.0/16				# DigitalOcean
+157.245.0.0/16				# DigitalOcean
+158.255.213.0/24			# EDIS Infrastructure in the USA
+159.65.0.0/16				# DigitalOcean
+159.203.0.0/16				# DigitalOcean
+159.223.0.0/16				# DigitalOcean
+161.35.0.0/16				# DigitalOcean
+162.120.68.0/22				# Clouvider Limited, UK
+162.210.132.0/22			# CLGW
+162.243.0.0/16				# DigitalOcean
+162.244.92.0/22				# FranTech Solutions
+165.227.0.0/16				# DigitalOcean
+162.245.0.0/21				# FranTech Solutions
+166.113.64.0/18				# OEC Fiber
+167.88.160.0/20				# FranTech Solutions
+167.99.0.0/16				# DigitalOcean
+172.86.64.0/18				# FranTech Solutions
+172.104.0.0/15				# Linode / Akamai Technologies, Inc.
+173.16.0.0/12				# Mediacom
+173.64.0.0/12				# Verizon
+173.245.86.16/29			# EGIHosting
+173.255.192.0/18			# Linode
+174.160.0.0/11				# Comcast
+181.214.93.0/24				# Unknown
+185.212.115.0/24			# Fine Group Servers       
+185.216.70.0/24				# Silent Connection Ltd
+192.241.128.0/17			# DigitalOcean
+193.163.92.0/24				# Fine Group Server
+194.33.44.0/22				# Clouvider Limited, UK
+198.251.80.0/20				# FranTech Solutions
+198.98.48.0/20				# FranTech Solutions
+198.199.0.0/16				# Orange County - Social Services Agency, CA, US
+199.19.224.0/22				# FranTech Solutions
+199.195.248.0/21			# FranTech Solutions
+205.185.112.0/20			# FranTech Solutions
+207.244.224.0/19			# Contabo Inc.
+207.246.64.0/18				# The Constant Company, LLC
+208.100.0.0/18				# Steadfast
+209.141.32.0/19				# FranTech Solutions
+212.18.127.0/24				# Fine Group Servers
+216.131.64.0/18				# Strong Technology
+104.192.0.0/22				# DataWagon LLC
