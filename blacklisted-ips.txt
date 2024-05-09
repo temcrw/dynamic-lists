@@ -2,6 +2,8 @@
 #4.144.0.0/12				# Microsoft Hosting
 5.161.0.0/16				# Hetzner Online GmbH, Germany
 23.183.80.0/22				# FranTech Solutions
+24.0.0.0/12				# Comcast
+24.16.0.0/13				# Comcast
 24.128.0.0/16				# Comcast
 34.204.167.206				# Amazon AWS Single Host
 35.129.0.0/16				# Charter Communications
@@ -22,6 +24,7 @@
 62.204.49.0/24				# Fine Group Servers
 64.23.128.0/17				# DigitalOcean
 64.225.0.0/17				# DigitalOcean
+66.27.0.0/16				# Charter
 66.176.0.0/15				# Comcast Cable Communications
 66.240.192.0/18				# CariNet San Diego
 67.160.0.0/11				# Comcast
@@ -30,9 +33,14 @@
 68.32.0.0/11				# Comcast
 68.192.0.0/13				# Optimum
 68.170.160.0/20				# Bel Air Internet, LLC
+68.200.0.0/13				# Charter
 69.112.0.0/12				# Altice USA
 69.240.0.0/12				# Comcast
 70.160.0.0/11				# Cox Communications
+70.225.0.0/16				# AT&T
+70.226.0.0/15				# AT&T
+70.228.0.0/14				# AT&T
+0.232.0.0/18				# AT&T
 71.0.0.0/8				# Comcast Cable Communications
 72.192.0.0/11				# Cox Cable
 73.0.0.0/8				# Comcast Cable Communications
@@ -83,6 +91,7 @@
 159.223.0.0/16				# DigitalOcean
 161.35.0.0/16				# DigitalOcean
 162.120.68.0/22				# Clouvider Limited, UK
+162.192.0.0/12				# AT&T
 162.210.132.0/22			# CLGW
 162.243.0.0/16				# DigitalOcean
 162.244.92.0/22				# FranTech Solutions
