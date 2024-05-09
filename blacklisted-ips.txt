@@ -21,6 +21,9 @@
 45.144.112.0/23				# Clouvider Limited, NY
 45.159.22.0/24				# Fine Group Servers
 47.132.0.0/14				# Charter
+47.224.0.0/13				# Charter
+47.232.0.0/15				# Charter
+47.234.0.0/16				# Charter
 62.204.49.0/24				# Fine Group Servers
 64.23.128.0/17				# DigitalOcean
 64.225.0.0/17				# DigitalOcean
@@ -45,6 +48,7 @@
 72.192.0.0/11				# Cox Cable
 73.0.0.0/8				# Comcast Cable Communications
 74.128.0.0/12				# Charter Communications
+75.192.0.0/10				# Verizon
 76.16.0.0/12				# Comcast
 76.96.0.0/11				# Comcast 
 76.128.0.0/11				# Comcast
@@ -64,6 +68,7 @@
 104.156.155.0/24			# Academy of Internet Research Limited Liability Company
 104.192.0.0/22				# DataWagon LLC
 104.194.128.0/19			# FranTech Solutions
+104.203.0.0/16				# Blue Stream
 104.230.0.0/15				# Charter
 104.244.72.0/21				# FranTech Solutions
 104.248.0.0/16				# DigitalOcean
