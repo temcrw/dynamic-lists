@@ -22,6 +22,11 @@
 45.144.112.0/23				# Clouvider Limited, NY
 45.159.22.0/24				# Fine Group Servers
 47.132.0.0/14				# Charter
+47.136.0.0/13				# Frontier Communications
+47.144.0.0/12				# Frontier Communications
+47.160.0.0/12				# Frontier Communications
+47.176.0.0/14				# Frontier Communications
+47.180.0.0/15				# Frontier Communications
 47.224.0.0/13				# Charter
 47.232.0.0/15				# Charter
 47.234.0.0/16				# Charter
