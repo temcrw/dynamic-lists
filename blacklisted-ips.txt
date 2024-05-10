@@ -1,6 +1,7 @@
 2.56.58.0/23				# Serverion BV, Netherlands
 #4.144.0.0/12				# Microsoft Hosting
 5.161.0.0/16				# Hetzner Online GmbH, Germany
+23.93.0.0/16				# Sonic.net LLC
 23.183.80.0/22				# FranTech Solutions
 24.0.0.0/12				# Comcast
 24.16.0.0/13				# Comcast
@@ -28,6 +29,9 @@
 64.23.128.0/17				# DigitalOcean
 64.225.0.0/17				# DigitalOcean
 66.27.0.0/16				# Charter
+66.56.96.0/19				# Charter
+66.56.128.0/17				# Charter
+66.57.0.0/16				# Charter
 66.176.0.0/15				# Comcast Cable Communications
 66.240.192.0/18				# CariNet San Diego
 67.160.0.0/11				# Comcast
@@ -47,7 +51,9 @@
 71.0.0.0/8				# Comcast Cable Communications
 72.192.0.0/11				# Cox Cable
 73.0.0.0/8				# Comcast Cable Communications
+74.64.0.0/12				# Charter
 74.128.0.0/12				# Charter Communications
+75.176.0.0/12				# Charter
 75.192.0.0/10				# Verizon
 76.16.0.0/12				# Comcast
 76.96.0.0/11				# Comcast 
@@ -59,6 +65,7 @@
 96.224.0.0/11				# Verizon
 97.80.0.0/12				# Charter
 98.24.0.0/13				# Charter Communications
+98.32.0.0/11				# Charter
 98.192.0.0/10				# Comcast Cable Communications 
 103.237.54.0/23				# Wave Broadband
 104.48.0.0/12				# AT&T
@@ -76,11 +83,13 @@
 107.170.0.0/16				# DigitalOcean
 107.189.0.0/19				# FranTech Solutions
 107.192.0.0/11				# AT&T
+108.192.0.0/10				# AT&T
 118.69.0.0/16				# Unknown Assignee Veitnam
 134.122.30.157				# DigitalOcean
 137.184.0.0/16				# DigitalOcean
-138.197.0.0/16				# DigitalOcean
 138.68.0.0/16				# DigitalOcean
+138.197.0.0/16				# DigitalOcean
+138.229.128.0/17			# Charter
 142.93.0.0/16				# DigitalOcean
 143.198.0.0/16				# DigitalOcean
 144.172.64.0/18				# FranTech Solutions
@@ -111,6 +120,7 @@
 173.64.0.0/12				# Verizon
 173.245.86.16/29			# EGIHosting
 173.255.192.0/18			# Linode
+174.134.0.0/15				# Charter
 174.160.0.0/11				# Comcast
 181.214.93.0/24				# Unknown
 185.187.171.0/24			# Packethub
