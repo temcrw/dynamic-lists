@@ -21,6 +21,8 @@
 45.88.148.0/22				# Moshonkin Ilia Sergeevich, Russia
 45.144.112.0/23				# Clouvider Limited, NY
 45.159.22.0/24				# Fine Group Servers
+47.24.0.0/14				# Charter
+47.28.0.0/16				# Charter
 47.132.0.0/14				# Charter
 47.136.0.0/13				# Frontier Communications
 47.144.0.0/12				# Frontier Communications
@@ -70,7 +72,9 @@
 97.80.0.0/12				# Charter
 98.24.0.0/13				# Charter Communications
 98.32.0.0/11				# Charter
-98.192.0.0/10				# Comcast Cable Communications 
+98.192.0.0/10				# Comcast Cable Communications
+100.0.0.0/12				# Verizon Business 
+100.16.0.0/14				# Verizon Business
 103.237.54.0/23				# Wave Broadband
 104.48.0.0/12				# AT&T
 104.131.0.0-104.131.103.208		# DigitalOcean
@@ -122,6 +126,7 @@
 172.104.0.0/15				# Linode / Akamai Technologies, Inc.
 173.16.0.0/12				# Mediacom
 173.64.0.0/12				# Verizon
+173.168.0.0/13				# Charter
 173.245.86.16/29			# EGIHosting
 173.255.192.0/18			# Linode
 174.134.0.0/15				# Charter
