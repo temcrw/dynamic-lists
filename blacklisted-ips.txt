@@ -77,6 +77,9 @@
 92.118.39.0/24				# PP Technology
 96.224.0.0/11				# Verizon
 97.80.0.0/12				# Charter
+97.96.0.0/13				# Charter
+97.104.0.0/15				# Charter
+97.106.0.0/16				# Charter
 97.128.0.0/9				# Verizon Wireless
 98.24.0.0/13				# Charter Communications
 98.32.0.0/11				# Charter
