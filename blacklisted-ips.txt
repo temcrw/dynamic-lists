@@ -70,6 +70,7 @@
 92.118.39.0/24				# PP Technology
 96.224.0.0/11				# Verizon
 97.80.0.0/12				# Charter
+97.128.0.0/9				# Verizon Wireless
 98.24.0.0/13				# Charter Communications
 98.32.0.0/11				# Charter
 98.192.0.0/10				# Comcast Cable Communications
@@ -125,6 +126,7 @@
 172.86.64.0/18				# FranTech Solutions
 172.104.0.0/15				# Linode / Akamai Technologies, Inc.
 173.16.0.0/12				# Mediacom
+173.48.0.0/12				# Verizon Business
 173.64.0.0/12				# Verizon
 173.168.0.0/13				# Charter
 173.245.86.16/29			# EGIHosting
@@ -132,6 +134,7 @@
 174.134.0.0/15				# Charter
 174.160.0.0/11				# Comcast
 181.214.93.0/24				# Unknown
+185.16.38.0/24				# Mevspace
 185.187.171.0/24			# Packethub
 185.212.115.0/24			# Fine Group Servers       
 185.216.70.0/24				# Silent Connection Ltd
