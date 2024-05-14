@@ -1,6 +1,7 @@
 2.56.58.0/23				# Serverion BV, Netherlands
 #4.144.0.0/12				# Microsoft Hosting
 5.161.0.0/16				# Hetzner Online GmbH, Germany
+23.27.0.0/16				# Ace Data Centers
 23.93.0.0/16				# Sonic.net LLC
 23.183.80.0/22				# FranTech Solutions
 24.0.0.0/12				# Comcast
@@ -32,9 +33,11 @@
 47.224.0.0/13				# Charter
 47.232.0.0/15				# Charter
 47.234.0.0/16				# Charter
+50.114.0.0/16				# Ace Data Centers
 62.204.49.0/24				# Fine Group Servers
 64.23.128.0/17				# DigitalOcean
 64.225.0.0/17				# DigitalOcean
+64.226.156.0/22				# RapidSeedBox
 66.27.0.0/16				# Charter
 66.56.96.0/19				# Charter
 66.56.128.0/17				# Charter
@@ -134,11 +137,13 @@
 174.134.0.0/15				# Charter
 174.160.0.0/11				# Comcast
 181.214.93.0/24				# Unknown
+181.215.184.0/23			# Unknown
 185.16.38.0/24				# Mevspace
 185.187.171.0/24			# Packethub
 185.212.115.0/24			# Fine Group Servers       
 185.216.70.0/24				# Silent Connection Ltd
 192.241.128.0/17			# DigitalOcean
+193.41.68.0/24				# RapidSeedBox
 193.163.92.0/24				# Fine Group Server
 194.33.44.0/22				# Clouvider Limited, UK
 198.251.80.0/20				# FranTech Solutions
@@ -153,4 +158,5 @@
 209.141.32.0/19				# FranTech Solutions
 212.18.127.0/24				# Fine Group Servers
 216.131.64.0/18				# Strong Technology
+216.185.32.0/19				# Alentus Corp
 104.192.0.0/22				# DataWagon LLC
