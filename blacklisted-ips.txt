@@ -6,6 +6,7 @@
 23.183.80.0/22				# FranTech Solutions
 24.0.0.0/12				# Comcast
 24.16.0.0/13				# Comcast
+24.126.0.0/15				# Comcast
 24.128.0.0/16				# Comcast
 34.204.167.206				# Amazon AWS Single Host
 35.129.0.0/16				# Charter Communications
