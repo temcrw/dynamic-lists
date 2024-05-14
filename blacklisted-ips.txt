@@ -102,6 +102,7 @@
 138.68.0.0/16				# DigitalOcean
 138.197.0.0/16				# DigitalOcean
 138.229.128.0/17			# Charter
+139.64.164.0/22				# GTHost
 142.93.0.0/16				# DigitalOcean
 143.198.0.0/16				# DigitalOcean
 144.172.64.0/18				# FranTech Solutions
