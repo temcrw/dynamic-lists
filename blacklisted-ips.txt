@@ -123,6 +123,7 @@
 162.244.92.0/22				# FranTech Solutions
 165.227.0.0/16				# DigitalOcean
 162.245.0.0/21				# FranTech Solutions
+166.88.0.0/16				# Ace Data Center
 166.113.64.0/18				# OEC Fiber
 167.88.160.0/20				# FranTech Solutions
 167.99.0.0/16				# DigitalOcean
