@@ -21,6 +21,7 @@
 45.61.128.0/18				# Frantech Solutions
 45.88.148.0/22				# Moshonkin Ilia Sergeevich, Russia
 45.144.112.0/23				# Clouvider Limited, NY
+45.152.176.0/23				# IPXO Limited UK
 45.159.22.0/24				# Fine Group Servers
 47.24.0.0/14				# Charter
 47.28.0.0/16				# Charter
@@ -42,6 +43,7 @@
 66.56.96.0/19				# Charter
 66.56.128.0/17				# Charter
 66.57.0.0/16				# Charter
+66.94.96.0/19				# Contabo
 66.176.0.0/15				# Comcast Cable Communications
 66.240.192.0/18				# CariNet San Diego
 67.160.0.0/11				# Comcast
@@ -67,6 +69,7 @@
 76.16.0.0/12				# Comcast
 76.96.0.0/11				# Comcast 
 76.128.0.0/11				# Comcast
+81.29.144.0/24				# SSV IT Provider
 83.147.52.0/22				# Clouvider Limited
 88.218.47.0/24				# Fine Group Servers
 93.177.116.0 /23			# Fine Group Servers
@@ -89,16 +92,19 @@
 104.194.128.0/19			# FranTech Solutions
 104.203.0.0/16				# Blue Stream
 104.230.0.0/15				# Charter
+104.233.128.0/17			# PEG Tech
 104.244.72.0/21				# FranTech Solutions
 104.248.0.0/16				# DigitalOcean
 107.151.128.0/18			# Zenlayer Inc
 107.170.0.0/16				# DigitalOcean
+107.172.0.0/14				# HostPapa
 107.189.0.0/19				# FranTech Solutions
 107.192.0.0/11				# AT&T
 108.192.0.0/10				# AT&T
 118.69.0.0/16				# Unknown Assignee Veitnam
 134.122.30.157				# DigitalOcean
 137.184.0.0/16				# DigitalOcean
+138.36.0.0/16				# Latin America or NYC Trading
 138.68.0.0/16				# DigitalOcean
 138.197.0.0/16				# DigitalOcean
 138.229.128.0/17			# Charter
@@ -130,6 +136,7 @@
 167.99.0.0/16				# DigitalOcean
 172.86.64.0/18				# FranTech Solutions
 172.104.0.0/15				# Linode / Akamai Technologies, Inc.
+172.120.0.0/15				# EGIHosting
 173.16.0.0/12				# Mediacom
 173.48.0.0/12				# Verizon Business
 173.64.0.0/12				# Verizon
@@ -140,10 +147,13 @@
 174.160.0.0/11				# Comcast
 181.214.93.0/24				# Unknown
 181.215.184.0/23			# Unknown
+184.154.0.0/16				# Singlehop
 185.16.38.0/24				# Mevspace
 185.187.171.0/24			# Packethub
 185.212.115.0/24			# Fine Group Servers       
 185.216.70.0/24				# Silent Connection Ltd
+185.240.120.0/23			# IPXO UK
+192.210.128.0/17			# HostPapa
 192.241.128.0/17			# DigitalOcean
 193.41.68.0/24				# RapidSeedBox
 193.163.92.0/24				# Fine Group Server
@@ -159,6 +169,7 @@
 208.100.0.0/18				# Steadfast
 209.141.32.0/19				# FranTech Solutions
 212.18.127.0/24				# Fine Group Servers
+213.170.223.0/24			# Singularity Telecom
 216.131.64.0/18				# Strong Technology
 216.185.32.0/19				# Alentus Corp
 104.192.0.0/22				# DataWagon LLC
