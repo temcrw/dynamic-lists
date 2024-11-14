@@ -2,4 +2,3 @@
 *.windowsupdate.com/
 *.sentinelone.com/
 *.microsoft.com/
-gisdata.usicllc.com/
