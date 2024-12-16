@@ -1,2 +1,3 @@
 38.109.176.113	# gisdata.usicllc.com
 35.222.13.89	# certificate.paloaltonetworks.com
+38.123.149.72	# curtismedia.com
