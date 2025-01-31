@@ -2,4 +2,12 @@
 *.windowsupdate.com/
 *.sentinelone.com/
 *.microsoft.com/
+*.paloaltonetworks.com/
+*.office365.com/
+*.office.com/
+*.onedrive.com/
+*.microsoftonline.com/
 remtek.dtinetworks.com/
+connect.dtinetworks.com/
+duosecurity.com/
+*.duosecurity.com/
