@@ -6,11 +6,14 @@
 *.paloaltonetworks.com/
 *.office365.com/
 *.office.com/
+*.office.net/
 *.onedrive.com/
 *.sharepoint.com/
 *.microsoftonline.com/
 *.cloudtrax.com/
 *.vmware.com/
+*.cisco.com/
+*.intersight.com/
 remtek.dtinetworks.com/
 connect.dtinetworks.com/
 duosecurity.com/
