@@ -6,7 +6,10 @@
 *.office365.com/
 *.office.com/
 *.onedrive.com/
+*.sharepoint.com/
 *.microsoftonline.com/
+*.cloudtrax.com/
+*.vmware.com/
 remtek.dtinetworks.com/
 connect.dtinetworks.com/
 duosecurity.com/
