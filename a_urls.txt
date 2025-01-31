@@ -1,6 +1,7 @@
 *.apple.com/
 *.windowsupdate.com/
 *.sentinelone.com/
+*.sentinelone.net/
 *.microsoft.com/
 *.paloaltonetworks.com/
 *.office365.com/
