@@ -2,4 +2,7 @@
 *.onion/
 docsend.com/
 *.docsend.com/
+deepseek.com/
+*.deepseek.com/
+
 

@@ -2,3 +2,4 @@
 *.windowsupdate.com/
 *.sentinelone.com/
 *.microsoft.com/
+remtek.dtinetworks.com/
